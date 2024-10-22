@@ -1,0 +1,42 @@
+.fullfoot {
+    width: 100%;
+    position: absolute;
+    left: 0;
+}
+
+.containerfooter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:0px;
+    width: 100%;
+    margin: 10px;
+}
+
+.btnf {
+    margin: 20px;
+    border-radius: 100%;
+    padding: 10px;
+    border-style: hidden;
+    color: white;
+    height: 44px;
+    width: 44px;
+}
+
+.cop {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+/*Link Cadastro Funcionario*/
+.cadbtn {
+    color: white;
+    text-decoration: none;
+    margin-left: 3px;
+}
+.cadbtn:hover {
+    color: white;
+    text-decoration: none;
+}

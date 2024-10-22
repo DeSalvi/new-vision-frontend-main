@@ -1,0 +1,172 @@
+.body {
+    background-color: #01629b;
+}
+.paneldiv{
+    height: 500px;
+}
+.panel {
+    justify-content: center;
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    font-style: italic;
+    height: 700px;
+}
+.pannelimg{
+    width: 700px;
+    height: 700px;
+    margin: 30px;
+}
+.panelbtn {
+    display: inline-flex;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.panelbtn:hover {
+    background: black;
+    color: white;
+}
+
+/*Produtos*/
+.title {
+    font-size: 40px;
+    font-style: italic;
+    font: bold;
+    color: black;
+    text-align: center;
+    margin: 30px;
+    justify-content: center;
+    align-content: center;
+}
+.card-img-top {
+    height: 350px;
+    width: 350px;
+    background-color: white;
+}
+
+.containers {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 60px 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items: center;
+    justify-content: center;
+}
+
+.btnj {
+    display: inline-flex;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.btnj:hover {
+    background: black;
+    color: white;
+}
+
+.titleprod {
+    margin: 5px;
+    color: black;
+    font-style: italic;
+    font: bold;
+    font-size: 10px;
+}
+.carf-footer{
+    height: auto;
+}
+
+/*Quem Somos*/
+.Quem {
+    background-color: whitesmoke;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 70px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.Quem img {
+    margin: 20px;
+    height: auto;
+    width: 600px;
+    border-radius: 10px;
+}
+
+.txtqm {
+    margin: 20px;
+    color: black;
+}
+
+/*Fale Conosco*/
+.Fale {
+    background-color: whitesmoke;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 70px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+
+
+}
+
+.Fale img {
+    margin: 20px;
+    height: auto;   
+    width: 800px;
+    border-radius: 10px;
+    display: flexbox;
+}
+
+.txtfale {
+    vertical-align: top;
+    color: black;
+}
+
+.form-fale {
+    margin: 20px;
+    padding: 20px;
+    margin: 10px;
+    background-color: floralwhite;
+    border-radius: 10px;
+    color: black;
+}
+
+.TipoMsg {
+    margin: 20px;
+    padding: 10px;
+    margin: 10px;
+    background-color: floralwhite;
+    border-radius: 10px;
+    color: black;
+    border-color: rgb(197, 197, 197);
+    font-weight: bold;
+}
+
+/*Onde Estamos*/
+.ondeest {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+}
+.ondeesttxt {
+    text-align: center;
+}
+
+

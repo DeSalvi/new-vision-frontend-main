@@ -1,0 +1,17 @@
+.btnnew{
+    padding: 14px 28px;
+    background-color: yellow;
+    border-color: yellow;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.btnlist{
+    padding: 14px 28px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}

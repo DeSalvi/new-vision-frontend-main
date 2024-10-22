@@ -1,0 +1,13 @@
+footer{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu{
+    background-color: brown; 
+ }
+ 
+ .menu a {
+     color: aqua;
+ }
